@@ -8,3 +8,5 @@ para o desenvolvimento do projeto utilizei a linguagem Python, para a interface 
 <li>Gustavo Oliveira</li>
 <li>Anderson</li>
 </ul>
+
+<hr>
