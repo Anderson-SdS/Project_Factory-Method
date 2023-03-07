@@ -5,7 +5,7 @@ para o desenvolvimento do projeto utilizei a linguagem Python, para a interface 
 <p>Nome dos integrantes do grupo<p>
 <ul>
 <li>Flavio</li>
-<li>Gustavo Oliveira</li>
+<li>Gustavo Santos</li>
 <li>Anderson</li>
 </ul>
 
